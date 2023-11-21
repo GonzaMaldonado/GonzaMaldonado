@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Gonzalo Maldonado</h1>
-<h3 align="center">Soy un Backend Developer</h3>
+<h1 align="center">Hola 👋, me llamo Gonzalo Maldonado</h1>
+<h3 align="center">Soy un FullStack Developer</h3>
 
 - 💬 Ask me about **Python, Django**
 
