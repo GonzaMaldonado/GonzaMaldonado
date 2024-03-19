@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Gonzalo Maldonado</h1>
 <h3 align="center">Soy un FullStack Developer</h3>
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **JavaScript, React - NestJS - NextJS**
 
-- 📫 How to reach me **nahuel.maldonado.gonzalo@gmail.com**
+- 📫 How to reach me **gnmaldo06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
